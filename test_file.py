@@ -1,5 +1,5 @@
 import math
 a = 4
-b = 4
+b = 100
 print a+b
 
